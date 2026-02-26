@@ -1,5 +1,9 @@
 # ☁️ Bootcamp Cloud GCP — 28 jours
 
+<div align="center">
+  <img src="assets/gcp.png" alt="laplaceimmo width="300"/>
+</div>  
+
 > Formation intensive **Google Cloud Platform** orientée Data Engineering.
 > De l'ingestion batch au streaming temps réel, du serverless au Machine Learning dans le cloud.
 
